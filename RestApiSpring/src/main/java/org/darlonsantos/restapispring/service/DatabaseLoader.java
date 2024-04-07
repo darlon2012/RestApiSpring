@@ -1,4 +1,4 @@
-package org.darlonsantos.restapispring.connection;
+package org.darlonsantos.restapispring.service;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;

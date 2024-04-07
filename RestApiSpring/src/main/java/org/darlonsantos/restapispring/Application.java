@@ -5,10 +5,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.web.bind.annotation.RestController;
 
 @SpringBootApplication
-public class RestApiSpringApplication {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RestApiSpringApplication.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 
 
